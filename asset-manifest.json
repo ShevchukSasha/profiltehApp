@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/profiltehApp/static/css/main.f2d6b9f3.css",
+    "main.js": "/profiltehApp/static/js/main.68f0bcfd.js",
+    "static/js/787.cab5d90e.chunk.js": "/profiltehApp/static/js/787.cab5d90e.chunk.js",
+    "static/media/about-3.jpg": "/profiltehApp/static/media/about-3.9a80ea2b82390b7a9302.jpg",
+    "static/media/about-4.jpg": "/profiltehApp/static/media/about-4.436466d6ed6175da28b1.jpg",
+    "static/media/about-2.jpg": "/profiltehApp/static/media/about-2.db5c39e09240402764bf.jpg",
+    "static/media/1.jpg": "/profiltehApp/static/media/1.a563cfa397eceb219de4.jpg",
+    "static/media/about-12.jpg": "/profiltehApp/static/media/about-12.a563cfa397eceb219de4.jpg",
+    "static/media/about-5.jpg": "/profiltehApp/static/media/about-5.b09db0d1822e06a8331f.jpg",
+    "static/media/about-13.jpg": "/profiltehApp/static/media/about-13.93664c8c7a2cea04c41f.jpg",
+    "static/media/about-14.jpg": "/profiltehApp/static/media/about-14.962be9d289827c40bfeb.jpg",
+    "static/media/home-3.jpg": "/profiltehApp/static/media/home-3.51a00b7d8d84cad0ceec.jpg",
+    "static/media/about_1.jpg": "/profiltehApp/static/media/about_1.74a2142461bdb4338a01.jpg",
+    "static/media/about-6.jpg": "/profiltehApp/static/media/about-6.6362d0f79f3f1f5e3745.jpg",
+    "static/media/about-9.jpg": "/profiltehApp/static/media/about-9.761fc1126ef07b1b560c.jpg",
+    "static/media/about-11.jpg": "/profiltehApp/static/media/about-11.47f50dd27eabd8e2ca04.jpg",
+    "static/media/about-7.jpg": "/profiltehApp/static/media/about-7.7ab8b437607edaac0d25.jpg",
+    "static/media/about-15.jpg": "/profiltehApp/static/media/about-15.21e6818188c625387f4c.jpg",
+    "static/media/about-10.jpg": "/profiltehApp/static/media/about-10.d1afd306aa98e0294369.jpg",
+    "static/media/2.jpg": "/profiltehApp/static/media/2.4a3179a8c043ebd17e81.jpg",
+    "static/media/home-1.jpg": "/profiltehApp/static/media/home-1.4a3179a8c043ebd17e81.jpg",
+    "static/media/about-8.jpg": "/profiltehApp/static/media/about-8.2114ef45212347293e1a.jpg",
+    "static/media/logo.png": "/profiltehApp/static/media/logo.2f78d583b90e3aa934ed.png",
+    "index.html": "/profiltehApp/index.html",
+    "main.f2d6b9f3.css.map": "/profiltehApp/static/css/main.f2d6b9f3.css.map",
+    "main.68f0bcfd.js.map": "/profiltehApp/static/js/main.68f0bcfd.js.map",
+    "787.cab5d90e.chunk.js.map": "/profiltehApp/static/js/787.cab5d90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d6b9f3.css",
+    "static/js/main.68f0bcfd.js"
+  ]
+}
